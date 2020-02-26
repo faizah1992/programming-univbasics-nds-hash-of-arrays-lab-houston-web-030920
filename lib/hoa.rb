@@ -6,8 +6,8 @@ BASE_HOA = {
 
 
 def add_character(show, name)
-  ASE_HOA[show]<< name 
-  BASE_HOA[show]B
+  BASE_HOA[show]<< name 
+  BASE_HOA[show]
 
   # Write your implementation here
   # Should return the array of the 'show' argument
